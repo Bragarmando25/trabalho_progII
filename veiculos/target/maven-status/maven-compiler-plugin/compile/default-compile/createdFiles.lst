@@ -1,0 +1,7 @@
+app\App.class
+util\Dao.class
+module-info.class
+app\PrimaryController.class
+app\SecondaryController.class
+util\JpaUtil.class
+.netbeans_automatic_build
